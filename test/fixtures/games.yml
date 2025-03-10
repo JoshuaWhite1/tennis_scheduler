@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  match_schedule: one
+  player_1: one
+  player_2: one
+  player_3: one
+  player_4: one
+  game_number: 1
+
+two:
+  match_schedule: two
+  player_1: two
+  player_2: two
+  player_3: two
+  player_4: two
+  game_number: 1
